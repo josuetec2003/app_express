@@ -1,0 +1,6 @@
+npm install // instala los paquetes de package.json
+npm i gulp-cli -g // instala Gulp de forma global
+npm i --save express
+npm i --save pug
+npm i --save-dev gulp-sass
+npm i --save-dev gulp-nodemon
