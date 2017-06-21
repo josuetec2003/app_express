@@ -2,6 +2,14 @@ extends base.pug
 
 block content
 	h1.
-		Hello world
+		Buenas tardes #{nombre}, tu edad es #{edad} años
+
+	div
+		h2.
+			Lenguajes utilizados
+
+		ul
+			for lang in langs
+				li= lang
 	
 	

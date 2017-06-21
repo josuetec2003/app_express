@@ -4,3 +4,9 @@ npm i --save express
 npm i --save pug
 npm i --save-dev gulp-sass
 npm i --save-dev gulp-nodemon
+
+
+// Comandos para Gulp
+
+gulp // dispara la tarea default
+gulp <nombre_tarea>
